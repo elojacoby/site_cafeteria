@@ -1,0 +1,83 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+body{
+    font-family: "Poppins", sans-serif;
+
+}
+
+.cabecalho{
+    font-family: "Dancing Script", cursive;
+    color:black;
+    align-items: center;
+    justify-content:center;
+    display:flex;
+}
+.cabecalho-imagem{
+    width: 10%;
+    }
+
+.menu-lista{
+    display: inline-block;
+    margin:  13px;
+    
+}
+.menu{
+    text-align: center;
+    font-family: "Oswald", sans-serif;
+    font-size: 14pt;
+
+}
+
+.corpo-texto{
+    font-family: "Dancing Script", cursive;
+    margin-left: 400px;
+}
+
+.imagens-div{
+   text-align:left;
+   margin-left: 200px;
+}
+.corpo-imagem{
+    padding: 20px 20px;
+    width: 250px;
+}
+
+hr{
+    margin:4px 4px;
+    margin-left: 90px;
+    margin-right: 90px;
+    border-color:rgb(41, 38, 34);
+}
+.buscar{
+    border-radius: 1px;
+    width:150px;
+    border:no;
+}
+.escrita-titulo{
+    font-family: "Dancing Script", cursive;
+
+}
+.bemvindo{
+   font-size: 8pt;
+   position: absolute;
+   left:850px;
+   bottom: 200px;
+   font-family: "Quicksand", sans-serif;
+   
+}
+.bemvindo-imagem{
+    width: 20%;
+}
+.icones{
+        width: 24px;
+        display: inline-flex;
+        position: absolute;
+        margin-left: 850px;
+        top: 480px;
+           }
+
+
+
